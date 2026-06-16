@@ -10,4 +10,4 @@ LightNote is a simple and lightweight note-taking app.
 
 ## Contact
 If you have any issues or feedback, please contact:  
-your-email@example.com
+cxoodre@gmail.com
